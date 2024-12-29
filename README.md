@@ -21,6 +21,6 @@ The dataset contains customer information and behaviors, including demographic d
 ## Business Context:
 The goal of the project is to help the company:
 
-> Predict which customers are likely to churn.
-> Understand the key factors driving customer churn.
-> Develop actionable strategies to retain high-value customers.
+1. Predict which customers are likely to churn.
+2. Understand the key factors driving customer churn.
+3. Develop actionable strategies to retain high-value customers.
